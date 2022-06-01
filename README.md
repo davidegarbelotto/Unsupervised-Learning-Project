@@ -5,7 +5,7 @@ The goal of this project is to analyse some unsupervised deep learning problems 
 - Classification Neural Network: obtained by fine-tuning the encoder previously implemented as a feature extractor. 
 - Conditional Generative Adversarial Network (CGAN): generate image samples.
 
-- ![GAN-output](https://github.com/davidegarbelotto/Unsupervised-Learning-Project/blob/6b81e6e622a2fd75c28052d4c9473e0c392b7ad0/images/GAN.png)
+![GAN-output](https://github.com/davidegarbelotto/Unsupervised-Learning-Project/blob/635ab2c0a622c60570b5ddef34e87ae79a788b5a/images/GAN.png)
 
 ## Technologies
 Project is created with:
